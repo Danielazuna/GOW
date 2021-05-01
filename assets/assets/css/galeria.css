@@ -1,0 +1,16 @@
+.title {
+   background: #000000;
+   bottom: 0;
+   top: 430px;
+   color: #FFFFFF;
+   left: 0;
+   opacity: 0.5;
+   position: absolute;
+   width: 620px;
+   height:30px;
+   padding:10px;
+}
+
+.title:hover {
+   opacity: 1;
+}
