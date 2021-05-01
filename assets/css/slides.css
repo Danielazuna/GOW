@@ -10117,3 +10117,21 @@ a.box-99:hover {
 
 .slides {
   font-family: 'Inter', sans-serif; }
+
+.inlineflex {
+  display:inline-flex;
+}
+.padreflex {
+  display:inline;
+  text-align: center;
+  padding:10px;
+}
+
+.haciaderecha{
+  float: left;
+  padding: 23px;
+}
+
+.menu {
+  color: white;
+}
